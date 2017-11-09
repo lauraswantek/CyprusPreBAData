@@ -1,0 +1,462 @@
+SiteName,Region,Period,TombID,BronzePeriod,DromosShape,DromosLength,DromosWidth,DromosHeight,DromosSquareMeters,ChamberPeriod1,ChamberShape1,ChamberLength1,ChamberWidth1,ChamberHeight1,ChamberSquareMeters1,ChamberPeriod2,ChamberShape2,ChamberLength2,ChamberWidth2,ChamberHeight2,ChamberSquareMeters2,ChamberPeriod3,ChamberShape3,ChamberLength3,ChamberWidth3,ChamberHeight3,ChamberSquareMeters3,ChamberPeriod4,ChamberShape4,ChamberLength4,ChamberWidth4,ChamberHeight4,ChamberSquareMeters4,NicheShape1,NicheLength1,Notes,TotalMetersSquare
+Alambra Mouttes,Central,PreBA 2,AL.101,,Rectangular,1.9,1.8,,3.42,,Rectangular,2.0,1.76,2.3,3.52,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,"Area F, Cluster 11",6.94
+Alambra Mouttes,Central,PreBA 2,AL.102,,,0,0,,0,,Pit,1.7,1.4,.60,2.38,,,0,0,,0,,,0,0,,0,,,0,0,,0,,.75,"Area Z, Cluster V",2.5675
+Alambra Mouttes,Central,PreBA 2,AL.103,,,0,0,,0,,Pit,2.1,1.5,.60,3.15,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,"Area Z, Cluster V",3.15
+Alambra Mouttes,Central,PreBA 2,AL.104,,,0,0,,0,,Pit,1.9,1.6,.8,3.04,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,"Area Z, Cluster V",3.04
+Alambra Mouttes,Central,PreBA 2,AL.105,2300-2200,,0,0,,0,,Pit,2.5,1.8,.70,4.5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,"Area Z, Cluster V",4.5
+Alambra Mouttes,Central,PreBA 2,AL.106,,,0,0,,0,,Pit,1.8,1.8,1.10,3.24,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.24
+Arpera,South,PreBA 1,102 Gjerstad,ECII,,0,0,0,0,,Oval,2,1.60,0,3.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.2
+Arpera,South,PreBA 1,103 bis Gjerstad,ECI,,0,0,0,0,,,2.2,2.0,0,4.4,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.4
+Arpera,South,PreBA 1,103 Gjerstad,ECI,,0,0,0,0,,,1.9,1.8,0,3.42,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.42
+Arpera,South,PreBA 1,105 Gjerstad,ECII,,0,0,0,0,,Oval,1.4,1.05,0,1.47,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Recess,.45,,1.605
+Arpera,South,PreBA 1,2 Gjerstad,EC,,0,0,0,0,,Rectangular,1.5,.8,0,1.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.2
+Arpera,South,PreBA 2,106 Gjerstad,ECIII,,0,0,0,0,,Circular,1.9,1.8,0,3.42,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.42
+Arpera,South,PreBA 2,107 Gjerstad,ECIII,,0,0,0,0,,Irregular,.8,.75,0,0.6,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,0.6
+Ayios Iakovos Melia,North,PreBA 2,6,MCII,Rectangular,3.88,1.20,0,4.656,,Circular,3.75,4.90,0,18.375,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,23.031
+Ayios Iakovos Melia,North,PreBA 2,7,MCII,Rectangular,2.43,1.29,0,3.1347,,Oval,2.16,3.90,0,8.424,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,11.5587
+Bellapais Vounous,North,PreBA 1,11,ECII,Rectangular,3.2,1.7,0,5.44,,Circular,3.3,3.3,0,10.89,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16.33
+Bellapais Vounous,North,PreBA 1,12,ECII,Bellapais Vounous,3.75,1.75,2.2,6.5625,,Oval,4.5,5.3,0,23.85,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,30.4125
+Bellapais Vounous,North,PreBA 1,15,ECII,Rectangular,2.3,1.5,0,3.45,,Oval,3.9,5.26,0,20.514,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Rectangular,2.2,,26.824
+Bellapais Vounous,North,PreBA 1,16,ECII,Rectangular,3.2,2.1,0,6.72,,Oval,2.6,3.23,0,8.398,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.118
+Bellapais Vounous,North,PreBA 1,18,ECII,N. Excavated,0,0,0,0,,Oval,1.9,3.5,0,6.65,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.65
+Bellapais Vounous,North,PreBA 1,2,ECII,Rectangular,2.9,1.55,0,4.495,,Oval,3.7,4.22,0,15.614,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,20.109
+Bellapais Vounous,North,PreBA 1,27,ECII/III,Rectangular,2.8,1.74,0,4.872,,Circular,4.9,4.9,0,24.01,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,28.882
+Bellapais Vounous,North,PreBA 1,28,ECIC,Rectangular,2.84,1.72,0,4.8848,,Circular,3.2,2.8,0,8.96,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,13.8448
+Bellapais Vounous,North,PreBA 1,30,ECIC,Rectangular,2.5,1.6,0,4,,Circular,2.7,2.7,0,7.29,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,11.29
+Bellapais Vounous,North,PreBA 1,31,ECII,Rectangular,2.7,1.7,0,4.59,,Circular,2.6,2.12,0,5.512,,Round,1.4,1.2,0,1.68,,,0,0,0,0,,,0,0,0,0,,0,Side Chamber,11.782
+Bellapais Vounous,North,PreBA 1,35,ECIC,Rectangular,2.12,1.65,0,3.498,,Circular,2,2.4,0,4.8,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,8.298
+Bellapais Vounous,North,PreBA 1,36,"ECII, MCI",Square,2.3,2.1,0,4.83,,Circular,3,3.6,0,10.8,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.63
+Bellapais Vounous,North,PreBA 1,39,ECII,Rectangular,2.8,1.52,0,4.256,,Oval,3.8,4.4,0,16.72,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,20.976
+Bellapais Vounous,North,PreBA 1,41,ECIC,Rectangular,2.9,1.6,0,4.64,,Circular,2,2.2,0,4.4,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.04
+Bellapais Vounous,North,PreBA 1,42,ECII,,0,0,0,0,,Oval,2.72,2.55,0,6.936,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.936
+Bellapais Vounous,North,PreBA 1,43,ECII,,0,0,0,0,,Oval,2.6,3.1,0,8.06,43a,,3.1,2.6,0,8.06,,,0,0,0,0,,,0,0,0,0,,0,,16.12
+Bellapais Vounous,North,PreBA 1,45,ECII,N. Excavated,0,0,0,0,,Circular,2.3,2.8,0,6.44,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.44
+Bellapais Vounous,North,PreBA 1,46,ECII,Rectangular,3.45,1.45,0,5.0025,,Oval,1.6,3,0,4.8,,Oval,3,1.6,0,4.8,,,0,0,0,0,,,0,0,0,0,,0,,14.6025
+Bellapais Vounous,North,PreBA 1,5,ECII,Rectangular,2.9,1.45,0,4.205,,Irregular,3.2,3.44,0,11.008,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.213
+Bellapais Vounous,North,PreBA 1,51,ECII,Oblong,2.9,1.7,1.25,4.93,,Circular,2.2,2.8,2,6.16,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,11.09
+Bellapais Vounous,North,PreBA 1,52,ECII-MCI,Rectangular,2.9,2.07,1.15,6.003,,Oval,3.15,4.2,1.17,13.23,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Side chamber not excavated,19.233
+Bellapais Vounous,North,PreBA 1,6,ECII,Rectangular,2.6,2,0,5.2,,Oval,3.84,4.5,0,17.28,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,1,Ledge along top 10 cm in width around,23.08
+Bellapais Vounous,North,PreBA 1,7,ECII,Rectangular,2.5,1.7,0,4.25,,Oval,2.7,3.72,0,10.044,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,14.294
+Bellapais Vounous,North,PreBA 1,70,ECII-ECIII,Rectangular,2.75,1.5,1.4,4.125,ECII,Circular,2.15,2.15,,4.6225,ECII,Circular,2,2.3,,4.6,ECIII,Circular,1.65,1.80,,2.97,,Circular,2.09,2.09,,4.3681,,0,,20.6856
+Bellapais Vounous,North,PreBA 1,71,ECII-ECIII,Rectangular,2,1.8,1.5,3.6,ECII-III,Circular,2.55,2.25,,5.7375,ECIII,Oval,2.85,2.4,,6.84,,,0,0,,0,,,0,0,,0,,0,,16.1775
+Bellapais Vounous,North,PreBA 1,72,ECII-MCI,Oblong,3.35,2.75,1.5,9.2125,ECII-MCI,Oval with niche,2.65,4.7,,12.455,,Oval,1.1,.8,,0.88,,,0,0,,0,,,0,0,,0,,1.4,,25.2075
+Bellapais Vounous,North,PreBA 1,77,ECII-III,Rectangular,1.7,1.2,,2.04,,Oval,3,2.3,,6.9,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.94
+Bellapais Vounous,North,PreBA 1,8,ECII,Rectangular,3,1.65,0,4.95,,Oval,3.2,4.18,0,13.376,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,18.326
+Bellapais Vounous,North,PreBA 2,13,ECIII,Rectangular,3,1.7,0,5.1,,Oval,4.4,5.2,0,22.88,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,27.98
+Bellapais Vounous,North,PreBA 2,17,ECIII,Rectangular,2.8,1.9,0,5.32,,Oval,2.9,3.6,0,10.44,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.76
+Bellapais Vounous,North,PreBA 2,19,ECIII,Rectangular,3.55,2.0,0,7.1,,Oval,3.6,3.9,0,14.04,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,21.14
+Bellapais Vounous,North,PreBA 2,20,ECIII,Rectangular,2.8,2,0,5.6,,Circular,2.2,2.3,0,5.06,,Circular,.7,.8,0,0.56,,,0,0,0,0,,,0,0,0,0,,0,,11.22
+Bellapais Vounous,North,PreBA 2,21,ECIII,Rectangular,3.1,1.7,0,5.27,,Circular,3.8,4,0,15.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,20.47
+Bellapais Vounous,North,PreBA 2,22,ECIII,Oblong,2.85,1.6,0,4.56,,Circular,4,4,0,16,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,20.56
+Bellapais Vounous,North,PreBA 2,26,ECIII,Rectangular,1.7,2,0,3.4,,Circular,3.6,3.6,0,12.96,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16.36
+Bellapais Vounous,North,PreBA 2,29,ECIII,Rectangular,3.92,2.18,0,8.5456,,Irregular,2.36,3.52,0,8.3072,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16.8528
+Bellapais Vounous,North,PreBA 2,32,ECIII,Rectangular,3,1.3,0,3.9,,Oval,3.8,4.5,0,17.1,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,21
+Bellapais Vounous,North,PreBA 2,33,ECIII,Square,1.3,1.5,0,1.95,,Oval,3.85,3.40,0,13.09,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.04
+Bellapais Vounous,North,PreBA 2,34,ECIII,Rectangular,2.9,1.8,0,5.22,,Oval,2.4,4.0,0,9.6,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,14.82
+Bellapais Vounous,North,PreBA 2,37,ECIII,Rectangular,3.23,1.7,0,5.491,,Circular,6.0,6.10,0,36.6,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,42.591
+Bellapais Vounous,North,PreBA 2,38,ECIII,Rectangular,3.22,1.6,0,5.152,,Oval,3.4,1.6,0,5.44,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,2 Steps,10.592
+Bellapais Vounous,North,PreBA 2,40,ECIII,,0,0,0,0,,Oval,2.4,3.6,0,8.64,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Platform,8.64
+Bellapais Vounous,North,PreBA 2,47,ECIII,Rectangular,2.9,1.82,0,5.278,,Oval,4,4.8,0,19.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,24.478
+Bellapais Vounous,North,PreBA 2,48,ECIII,,0,0,0,0,,Oval,3.2,4.4,0,14.08,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,14.08
+Bellapais Vounous,North,PreBA 2,49,ECIIIB-MCII,Rectangular,2.30,1.50,1.5,3.45,,Oval,2.6,3.9,1.7,10.14,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,13.59
+Bellapais Vounous,North,PreBA 2,50,ECIIIB-MCII,Oblong,3.2,1.55,1.75,4.96,MCI,Oval,3.15,4,2.1,12.6,ECIIIB-MCI,Oval,1.9,2.25,,4.275,MCII,Oval,1.65,1.8,,2.97,,,0,0,,0,,0,,24.805
+Bellapais Vounous,North,PreBA 2,53,ECIII-MCI,Rectangular,1.8,1.42,.65,2.556,,Circular,1.3,1.6,.95,2.08,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.636
+Bellapais Vounous,North,PreBA 2,54,ECIII-MCI,Oblong,2.16,1.6,1.25,3.456,,Oval,1.8,2.4,1.2,4.32,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.776
+Bellapais Vounous,North,PreBA 2,55,MCI,Rectangular,2.45,1.7,.97,4.165,,Oval,1.9,2.7,,5.13,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.295
+Bellapais Vounous,North,PreBA 2,56,"ECIII-MCI, MCII",Oblong,2.5,1.4,1.53,3.5,,Oval,3.3,4.5,1.07,14.85,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Multiple burials,18.35
+Bellapais Vounous,North,PreBA 2,57,ECIII-MCI,Oblong,2.2,1.52,.90,3.344,,Oval,3.8,4.3,,16.34,ECIIIB-MCII,"Side, Oval",2.6,3.2,,8.32,,,0,0,,0,,,0,0,,0,,0,,28.004
+Bellapais Vounous,North,PreBA 2,58,,Rectangular,3.1,1.2,.84,3.72,,Oval,3.5,.5,,1.75,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.47
+Bellapais Vounous,North,PreBA 2,59,MCI,Oblong,3,1.25,1.3,3.75,,Rectangular,2.8,3.1,1.6,8.68,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Side Chamber unopened,12.43
+Bellapais Vounous,North,PreBA 2,60,ECIIIB-MCI,Rectangular,2.8,1.3,1,3.64,,Oval,2.2,2.86,,6.292,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Side Chamber unopened,9.932
+Bellapais Vounous,North,PreBA 2,64,ECIII-MCI,Oblong,2.5,1.6,1.2,4,,Circular,5,4.5,1.35,22.5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Side Chamber unopened,26.5
+Bellapais Vounous,North,PreBA 2,65,ECIII,Rectangular,3.1,1.7,1.3,5.27,,Oval,6,3.6,1.7,21.6,,Circular,2.4,2,1.2,4.8,,,0,0,,0,,,0,0,,0,,0,,31.67
+Bellapais Vounous,North,PreBA 2,66,ECIII,Oblong,2.2,1.3,1,2.86,,Circular,2.3,2.2,1,5.06,,Circular,1.3,1.2,,1.56,,,0,0,,0,,,0,0,,0,,0,,9.48
+Bellapais Vounous,North,PreBA 2,67,ECIII,Oblong,2.9,1.5,,4.35,,Oval,2.25,3.3,,7.425,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,11.775
+Bellapais Vounous,North,PreBA 2,68,MCI,Rectangular,2.9,1.8,1.3,5.22,,Circular,3.4,3.4,,11.56,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Steps down into dromos,16.78
+Bellapais Vounous,North,PreBA 2,69,MCI,Rectangular,3.1,1.4,1.1,4.34,,Circular,3.6,3.3,,11.88,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,16.22
+Bellapais Vounous,North,PreBA 2,73,ECIII,Oblong,3,2,,6,,Oval,1.5,1.1,,1.65,,Oval,1.3,1,,1.3,,,0,0,,0,,,0,0,,0,,0,,8.95
+Bellapais Vounous,North,PreBA 2,75,ECIIIB-MCI,Rectangular,2.25,1.5,1.8,3.375,,Circular?,2.8,2.8,,7.84,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,11.215
+Bellapais Vounous,North,PreBA 2,76,ECIIIB-MCI (II),Oblong,3.05,1.9,1.4,5.795,,Oval,4.2,3.7,1.37,15.54,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,21.335
+Bellapais Vounous,North,PreBA 2,78,ECIIIB,Rectangular,2.9,1.4,1.2,4.06,,Oval,3.25,2.5,,8.125,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,12.185
+Bellapais Vounous,North,PreBA 2,9,ECIII,Rectangular,3.8,1.4,0,5.32,,Oval,1.7,3,0,5.1,,Circular,4.3,4.38,0,18.834,,,0,0,0,0,,,0,0,0,0,,0,,31.254
+Bellapais Vounous A,North,PreBA 1,100,ECI,Apsidal,2,2.46,.65,4.92,,Oval,1.95,2.20,,4.29,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.21
+Bellapais Vounous A,North,PreBA 1,103,ECI,"Irregular, eroded",1.88,2.32,,4.3616,,Irregular,1.74,1.84,,3.2016,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.5632
+Bellapais Vounous A,North,PreBA 1,105,ECI,Apsidal,2.76,2.40,.87,6.624,,Circular,2.76,2.70,,7.452,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,14.076
+Bellapais Vounous A,North,PreBA 1,106,ECI,Rectangular,2.08,2.10,.80,4.368,,Oval,2.80,2.60,,7.28,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,11.648
+Bellapais Vounous A,North,PreBA 1,107,ECI,"Rectangular, tapering",2.04,1.60,.90,3.264,,Oval,2.40,2.60,,6.24,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.504
+Bellapais Vounous A,North,PreBA 1,108,ECI,Square,2.18,2,.75,4.36,,Oval,2.38,2.5,,5.95,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.31
+Bellapais Vounous A,North,PreBA 1,110,ECI,eroded,0,0,,0,,Oval,1.90,1.48,,2.812,,Oval,1.90,1.62,,3.078,,,0,0,,0,,,0,0,,0,,0,,5.89
+Bellapais Vounous A,North,PreBA 1,111,"ECI, ECII-III",Rectangular,3.58,3.06,1.44,10.9548,,Irregular,3.12,2.94,,9.1728,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,20.1276
+Bellapais Vounous A,North,PreBA 1,113,ECI,Rectangular,2.38,1.84,1.28,4.3792,,Oval,1.90,2.20,,4.18,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.5592
+Bellapais Vounous A,North,PreBA 1,114,ECI,Rectangular,3,2.26,1.6,6.78,,Oval,2.42,2.8,1.74,6.776,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Pilasters cut,13.556
+Bellapais Vounous A,North,PreBA 1,116,ECI,Narrow,2.6,1.6,1.16,4.16,,Oval,2.5,2.44,1.26,6.1,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Doorway lintels,10.26
+Bellapais Vounous A,North,PreBA 1,117,ECI,Irregular,2.32,2.44,1.68,5.6608,,Oval,2.18,2.51,1.66,5.4718,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Doorway lintels +,11.1326
+Bellapais Vounous A,North,PreBA 1,118,ECI-ECII,Rectangular,2.6,2.22,1.51,5.772,,Oval,3.26,3.92,,12.7792,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Carved Façade,18.5512
+Bellapais Vounous A,North,PreBA 1,120,ECI,Rectangular,2.26,2.06,1.44,4.6556,,Oval,2.40,3,,7.2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,11.8556
+Bellapais Vounous A,North,PreBA 1,134,ECI,Apsidal,1.78,1.50,1.14,2.67,,Oval,2.20,1.90,,4.18,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.85
+Bellapais Vounous A,North,PreBA 1,152,ECI,Pit-shaped,1.63,1.76,,2.8688,,,1.93,2,,3.86,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.7288
+Bellapais Vounous A,North,PreBA 1,153,ECI,Rectangular,2.20,2,1.44,4.4,,Oval,2.06,2.47,,5.0882,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.4882
+Bellapais Vounous A,North,PreBA 1,154,ECI,Rectangular,2.54,1.8,1.52,4.572,,Oval,2.7,2.35,,6.345,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.917
+Bellapais Vounous A,North,PreBA 1,155,ECI,Rectangular,2.06,1.84,1,3.7904,,Oval,2,2.8,,5.6,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.3904
+Bellapais Vounous A,North,PreBA 1,160,ECI,Quadrilateral,1.54,2.50,1.34,3.85,,Oval,2.10,2,1.62,4.2,,Oval,1.83,1.86,,3.4038,,,0,0,,0,,,0,0,,0,,0,,11.4538
+Bellapais Vounous A,North,PreBA 1,161,ECI,Rectangular,1.9,3,1,5.7,,Oval,2.83,3.46,,9.7918,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,15.4918
+Bellapais Vounous A,North,PreBA 1,164,ECI-II,Square,3.3,3.18,1.7,10.494,,Oval,3.7,3.5,,12.95,,Oval,2.3,2.44,,5.612,,,0,0,,0,,,0,0,,0,,0,,29.056
+Bellapais Vounous A,North,PreBA 1,81,ECI,Rectangular,2,1.94,.86,3.88,,Oval,2,1.72,,3.44,,Oval,2.04,1.76,,3.5904,,,0,0,,0,,,0,0,,0,,0,,10.9104
+Bellapais Vounous A,North,PreBA 1,82,ECI,Rectangular,2.06,1.74,1.10,3.5844,,Oval,2.20,2.30,,5.06,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.6444
+Bellapais Vounous A,North,PreBA 1,82B,ECI,None,0,0,,0,,Oval,.8,.92,.83,0.736,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.736
+Bellapais Vounous A,North,PreBA 1,83,ECI,Rectangular,2.34,1.98,1.42,4.6332,,Oval,1.84,2,,3.68,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.3132
+Bellapais Vounous A,North,PreBA 1,84,ECI,Rectangular,2.22,2,1.30,4.44,,Oval,1.96,2.18,,4.2728,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.7128
+Bellapais Vounous A,North,PreBA 1,85,ECI,Apsidal,3.14,2.36,1.38,7.4104,,Oval,2.78,2.80,,7.784,,Irregular,1.90,1.50,1.30,2.85,,,0,0,,0,,,0,0,,0,,0,,18.0444
+Bellapais Vounous A,North,PreBA 1,87,ECI,Square,2.8,2.42,1.36,6.776,,Oval,2.46,2.32,1.64,5.7072,,Circular,2.24,2.06,,4.6144,,,0,0,,0,,,0,0,,0,,0,,17.0976
+Bellapais Vounous A,North,PreBA 1,88,ECI,Irregular,1.60,1.40,.56,2.24,,Irregular,1.8,1.7,,3.06,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.3
+Bellapais Vounous A,North,PreBA 1,89,ECI,Square,2.24,2.18,1.40,4.8832,,Circular,2.76,2.90,,8.004,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,12.8872
+Bellapais Vounous A,North,PreBA 1,90,ECI,Square,3.06,2.80,2.18,8.568,,Oval,2.84,2.40,,6.816,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,15.384
+Bellapais Vounous A,North,PreBA 1,91,ECI,Apsidal,1.68,1.60,1.30,2.688,,Oval,2.14,2.24,,4.7936,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.4816
+Bellapais Vounous A,North,PreBA 1,93,ECI,Rectangular,1.92,1.16,.92,2.2272,,Oval,1.80,2.02,,3.636,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.8632
+Bellapais Vounous A,North,PreBA 1,95,ECI-II,Rectangular,2.06,2.12,1.60,4.3672,,Circular,2.28,2.30,,5.244,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.6112
+Bellapais Vounous A,North,PreBA 1,96,ECI,Rectangular,2.5,2.4,.84,6,,Circular,2.68,2.7,,7.236,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,13.236
+Bellapais Vounous A,North,PreBA 1,97,ECI,,1.42,2.56,.62,3.6352,,Circular,2.9,3.25,,9.425,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,13.0602
+Bellapais Vounous A,North,PreBA 1,99,ECI-MCI,Rectangular,1.84,2.08,1.06,3.8272,,Oval,2.64,3.20,,8.448,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Second burial early in MC,12.2752
+Bellapais Vounous B,North,PreBA 1,121,ECII,Rectangular,.96,1.82,.43,1.7472,,Oval,2.42,2.59,,6.2678,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.015
+Bellapais Vounous B,North,PreBA 1,123,ECII,Square,1.85,1.5,,2.775,,Circular,1.78,1.7,,3.026,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.801
+Bellapais Vounous B,North,PreBA 1,124,ECII,Rectangular,1.58,1.72,.76,2.7176,,Oval,2.55,2.90,,7.395,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.1126
+Bellapais Vounous B,North,PreBA 1,132,ECII,Square,1.7,1.72,,2.924,,Oval,2.70,2.56,,6.912,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,9.836
+Bellapais Vounous B,North,PreBA 1,142,ECII,Rectangular,2,1.67,,3.34,,Oval,3,2.8,,8.4,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,11.74
+Bellapais Vounous B,North,PreBA 1,145,ECII,Rectangular,1.28,1.6,,2.048,,Oval,2.32,2.02,,4.6864,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.7344
+Bellapais Vounous B,North,PreBA 1,147,ECII-III,Rectangular,1.94,1.5,,2.91,,Circular,2.20,2.04,,4.488,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.398
+Bellapais Vounous B,North,PreBA 1,156,ECII,Rectangular,1.59,1.18,.60,1.8762,,Oval,1.95,2.33,2.28,4.5435,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.4197
+Bellapais Vounous B,North,PreBA 2,122,ECIII,Rectangular,1.56,1.50,.56,2.34,,Oval,3,2.88,,8.64,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.98
+Bellapais Vounous B,North,PreBA 2,129,ECIII,Rectangular,1.26,1.45,,1.827,,Oval,2.53,2.03,,5.1359,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.9629
+Bellapais Vounous B,North,PreBA 2,130,ECIIIB/MCI,Apsidal,1.52,1.15,,1.748,,Oval,1.86,2.15,,3.999,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.747
+Bellapais Vounous B,North,PreBA 2,131,ECIII,Rectangular,1.94,1.75,,3.395,,Oval,3,3.43,,10.29,,Oval,1.72,2.08,,3.5776,,,0,0,,0,,,0,0,,0,,0,,17.2626
+Bellapais Vounous B,North,PreBA 2,137,ECIIIB,Square,1.90,1.83,,3.477,,Circular,3.6,3.76,,13.536,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,17.013
+Bellapais Vounous B,North,PreBA 2,139,ECIIIB,Eroded,1.12,1.5,,1.68,,Oval,2.30,2.80,,6.44,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.12
+Bellapais Vounous B,North,PreBA 2,143,ECIII/MCI,Rectangular,1.54,1.62,,2.4948,,Oval,3.62,3.77,,13.6474,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,16.1422
+Bellapais Vounous B,North,PreBA 2,148,ECIII,Rectangular,1.15,2,,2.3,,Oval,2,2.10,,4.2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.5
+Bellapais Vounous B,North,PreBA 2,150,ECII-III,Rectangular,1.5,1.34,,2.01,,Oval,1.9,2.76,,5.244,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.254
+Bellapais Vounous B,North,PreBA 2,157,"ECIII, MCI",Square,1.99,1.85,1.20,3.6815,,Oval,2.34,2.17,2.10,5.0778,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.7593
+Deneia Kafkalla,Central,PreBA 2,185,MCI-II,Square,1.4,1.4,,1.96,,Circular,3,2.8,,8.4,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.36
+Deneia Kafkalla,Central,PreBA 2,215,MCIII,Square,1.2,1,,1.2,,Irregular,0,0,,0,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.2
+Deneia Kafkalla,Central,PreBA 2,225,,Square,1.3,1.3,,1.69,,Irregular,10,5,,50,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,56.19
+Deneia Kafkalla,Central,PreBA 2,294,MCIII,Rectangular,1.3,1.1,,1.43,,,0,0,,0,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.43
+Deneia Kafkalla,Central,PreBA 2,34,L.MCII-MCIII,Square,1.3,1.3,,1.69,,Rectangular,6,4.5,,27,,,3,1,,3,,,0,0,,0,,,0,0,,0,,0,,31.69
+Deneia Kafkalla,Central,PreBA 2,6,MCI,Circular,2.17,1.75,0,3.7975,,Kidney,9,4,0,36,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,39.7975
+Deneia Kafkalla,Central,PreBA 2,781,"MCI, II, III LC-IIC",Rectangular,1.4,1.3,,1.82,,Square,5.5,4.7,,25.85,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,27.67
+Deneia Kafkalla,Central,PreBA 2,782,MCI-II,Oval,1.4,1.25,.8,1.75,,Square,4.2,4.1,,17.22,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,18.97
+Deneia Kafkalla,Central,PreBA 2,787,"MCI-III, LC",Square,1.5,1.4,,2.1,,Irregular,9,7,,63,,,2.5,3.5,,8.75,,,0,0,,0,,,0,0,,0,,0,,
+Deneia Kafkalla,Central,PreBA 2,92,,Square,1.4,1.3,1.2,1.82,,,4,.5,.8,2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.0225
+Deneia Kafkalla,Central,PreBA 2,G.W. 1,MCII,Rectangular,1.49,.86,0,1.2814,,Squarish,4.97,3.77,0,18.7369,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Oval,.91,,27.0497
+Episkopi Phaneromeni,South,PreBA 1,1,,Irregular,.60,.82,,0.492,,Circular,1.2,1.56,1.08,1.872,,,0,0,,0,,,0,0,,0,,,0,0,,0,Semi-Circular,.54,,2.5908
+Episkopi Phaneromeni,South,PreBA 1,10,,Square,1.24,1.26,,1.5624,,Oval,1.88,2.38,,4.4744,,Circular,1.06,1.02,,1.0812,,Not dug,0,0,,0,,,0,0,,0,,0,,7.118
+Episkopi Phaneromeni,South,PreBA 1,11,,N. Excavated,0,0,,0,,Circular,1.24,1.61,,1.9964,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.9964
+Episkopi Phaneromeni,South,PreBA 1,12,,,0,0,,0,,Oval,2.16,1.98,,4.2768,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.2768
+Episkopi Phaneromeni,South,PreBA 1,2,,Square,.91,.98,,0.8918,,Circular,1.2,1.2,,1.44,,Semi-Circular,.39,.53,,0.2067,,Roughly Oval,1.21,.94,,1.1374,,,0,0,,0,,0,,3.6759
+Episkopi Phaneromeni,South,PreBA 1,"2, 10, 11, 12 complex",,,2.15,2.24,,4.816,,,9.14,9.66,,88.2924,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,93.1084
+Episkopi Phaneromeni,South,PreBA 1,3,,Sqaure,.98,.96,,0.9408,,Oval,.94,1.05,,0.987,,,0,0,,0,,,0,0,,0,,,0,0,,0,,.51,,2.0757
+Episkopi Phaneromeni,South,PreBA 1,4,,?,0,0,,0,,Oval,1.02,.52,,0.5304,,Circular,1.26,1.43,,1.8018,,,0,0,,0,,,0,0,,0,,0,,2.3322
+Episkopi Phaneromeni,South,PreBA 1,5,,Wedge,2.88,1.18,,3.3984,,Circular,1.15,1.20,,1.38,,Not dug,0,0,,0,,Partially dug,0,0,,0,,Oval,2.22,1.59,,3.5298,,0,,8.3082
+Episkopi Phaneromeni,South,PreBA 1,6,,Rectangular,1.44,1.04,,1.4976,,Oval,.78,.83,,0.6474,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.145
+Episkopi Phaneromeni,South,PreBA 1,7,,Rectangular,1.74,1.04,,1.8096,,Circular,2.44,3,,7.32,,Upper,1.31,1.2,,1.572,,Oval,1.07,.55,,0.5885,,Triangular,1.58,1.44,,2.2752,,.3,,13.6913
+Episkopi Phaneromeni,South,PreBA 1,8,,,0,0,,0,,Semi-Circular,1.10,1.26,,1.386,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.386
+Episkopi Phaneromeni,South,PreBA 1,9,,Wedge,2.52,1.09,,2.7468,,Oval,1.54,3.26,,5.0204,,Oval,1.39,1.63,,2.2657,,,0,0,,0,,,0,0,,0,,0,,10.0329
+Erimi Laonin tou Porakou,South,PreBA 2,231,ECIII-MCII,none,0,0,0,0,,Oval,1.5,1.2,0,1.8,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.8
+Erimi Laonin tou Porakou,South,PreBA 2,232,ECIII-MCII,none,0,0,0,0,,Circular,.65,.8,0,0.52,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,0.52
+Kalavasos,South,PreBA 2,1,MC redated by Herscher,,0,0,0,0,,Circular,4.56,4.08,0,18.6048,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,18.6048
+Kalavasos,South,PreBA 2,10,ECIII,,0,0,0,0,,Elliptical,2.7,2.2,0,5.94,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5.94
+Kalavasos,South,PreBA 2,5,MC redated by Herscher,,0,0,0,0,,Circular,2.9,2.2,0,6.38,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.38
+Kalavasos,South,PreBA 2,6,ECIII,,0,0,0,0,,Circular,1.5,1.5,0,2.25,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.25
+Kalavasos,South,PreBA 2,8,MC redated by Herscher,,0,0,0,0,,Circular,1.8,2.2,0,3.96,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.96
+Kalavasos,South,PreBA 2,9,ECIII,Rectangular,1.7,1.3,0,2.21,,Circular,2.0,2.0,0,4,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.21
+Kalavasos Cinema Area,South,PreBA 1,74,ECII-III,N. Excavated,0,0,0,0,,Oval,2.08,1.83,0,3.8064,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.8064
+Kalavasos Cinema Area,South,PreBA 1,75,ECII-III,N. Excavated,0,0,0,0,,Circular,2.2,2.2,0,4.84,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.84
+Kalavasos Cinema Area,South,PreBA 1,76,ECII-III,N. Excavated,0,0,0,0,,Oval,1.65,1.32,0,2.178,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.178
+Kalavasos Cinema Area,South,PreBA 1,77,ECII-III,N. Excavated,0,0,0,0,,Oval,2.12,1.89,0,4.0068,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.0068
+Kalavasos Cinema Area,South,PreBA 1,79,ECII-III,N. Excavated,0,0,0,0,,Oval,1.61,1.42,0,2.2862,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.2862
+Kalavasos Cinema Area,South,PreBA 2,78,MC,N. Excavated,0,0,0,0,,Oval,2.75,2.6,0,7.15,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.15
+Kalavasos Mosque/Mavrovouni Area,South,PreBA 2,52,ECIII/MCI,N. Excavated,0,0,0,0,,Oval,2.59,1.12,0,2.9008,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Oval,.40,,2.9808
+Kalavasos Mosque/Mavrovouni Area,South,PreBA 2,53,ECIII/MCI,N. Excavated,0,0,0,0,,Oval,2.88,2.74,0,7.8912,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Oval,.48,,8.1024
+Kalavasos Panayia Church,South,PreBA 2,036,MC,,0,0,0,0,,Oval/Circular,3.1,2.93,0,9.083,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Oval,.48,"Estimated, tomb only excavated half",9.1838
+Kalavasos Panayia Church,South,PreBA 2,37,MC,,0,0,0,0,,Elliptical,2.45,1.9,0,4.655,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.655
+Kalavasos Panayia Church,South,PreBA 2,38,MC,,0,0,0,0,,Circular,2.45,2.3,0,5.635,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5.635
+Kalavasos Panayia Church,South,PreBA 2,39,MC,,0,0,0,0,,Circular,2.53,2.55,0,6.4515,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.4515
+Kalavasos Panayia Church,South,PreBA 2,42,MC,,0,0,0,0,,Circular,1.73,1.59,0,2.7507,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.7507
+Kalavasos Panayia Church,South,PreBA 2,43,MC,,0,0,0,0,,Elliptical,1.64,2.92,0,4.7888,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Estimated by excavators,4.7888
+Kalavasos Panayia Church,South,PreBA 2,45,MC,,0,0,0,0,,Elliptical,4,2.42,0,9.68,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Estimated by excavators,9.68
+Kalavasos Panayia Church,South,PreBA 2,46,MC,,0,0,0,0,,Circular,3.5,3.2,0,11.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Estimated by excavators,11.2
+Kalavasos Panayia Church,South,PreBA 2,47,MC,,0,0,0,0,,Elliptical,3.72,2.24,0,8.3328,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Estimated by excavators,8.3328
+Kalavasos Panayia Church,South,PreBA 2,55,EC/MC,,0,0,0,0,,Circular,1.92,1.92,0,3.6864,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Dromos destroyed,3.6864
+Kalavasos Panayia Church,South,PreBA 2,57/58/63,EC/MC,Rectangular,3.26,2.18,0,7.1068,,Oval,2.54,2.35,0,5.969,MC,Oval,2.07,1.94,0,4.0158,MC,Oval,1.52,1.18,0,1.7936,,,0,0,0,0,,0,,18.8852
+Kalavasos Panayia Church,South,PreBA 2,59/61/62,EC/MC,Rectangular,1.96,1.30,0,2.548,,Oval,1.8,1.78,0,3.204,,Oval,1.63,1.5,0,2.445,,Oval,2.3,1.97,0,4.531,,,0,0,0,0,,0,,12.728
+Kalavasos Panayia Church,South,PreBA 2,60,EC/MC,N. Excavated,0,0,0,0,,Oval,2,1.84,0,3.68,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.68
+Kalavasos Panayia Church,South,PreBA 2,65,MC,N. Excavated,0,0,0,0,,Circular,2.23,2.22,0,4.9506,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.9506
+Kalavasos Panayia Church,South,PreBA 2,66,EC/MC,N. Excavated,0,0,0,0,,Circular,1.93,1.91,0,3.6863,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.6863
+Kalavasos Panayia Church,South,PreBA 2,67,EC/MC,N. Excavated,0,0,0,0,,Circular,2.9,2.85,0,8.265,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,8.265
+Kalavasos Panayia Church,South,PreBA 2,68,EC/MC,N. Excavated,0,0,0,0,,Oval,2.27,1.86,0,4.2222,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.2222
+Kalavasos Panayia Church,South,PreBA 2,69,EC/MC,N. Excavated,0,0,0,0,,Circular,2.3,2.3,0,5.29,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5.29
+Kalavasos Panayia Church,South,PreBA 2,70/71/72,EC/MC,Rectangular,2.3,1.5,0,3.45,,Circular,1.75,1.75,0,3.0625,,Oval,2.8,2.35,0,6.58,,Circular,2.3,2.3,0,5.29,,,0,0,0,0,,0,,18.3825
+Karmi Lapatsa,North,PreBA 1,1,ECI,Nearly Square,2.15,2.45,1.3,5.2675,,Circular,1.9,2.75,1.9,5.225,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.4925
+Karmi Lapatsa,North,PreBA 1,11,Prior to ECIII,Rectangular,1.7,3.2,.8,5.44,,Circular,2.2,2.5,1.4,5.5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.94
+Karmi Lapatsa,North,PreBA 1,12,ECI-ECII,Square,2.5,2.3,1.35,5.75,,Circular,2,2.35,1.6,4.7,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,ECI or II burial and subsequent ECII,10.45
+Karmi Lapatsa,North,PreBA 1,15,ECI-II,Square,1.87,1.62,1.0,3.0294,,Circular,1.9,2.3,,4.37,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,2 burials ECI or II or both in ECII,7.3994
+Karmi Lapatsa,North,PreBA 1,16,ECII,?,,,,,,Circular,1.75,1.6,,2.8,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,"Dromos not found, but likely there",
+Karmi Lapatsa,North,PreBA 1,4,ECII-ECIII,Rectangular,2.2,1.35,1.2,2.97,,Circular,2.0,2.5,1.5,5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.97
+Karmi Lapatsa,North,PreBA 1,5,"ECI-ECIII, MCI",Rectangular,2.85,2.45,1.75,6.9825,,Circular,1.65,2.4,1.6,3.96,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,10.9425
+Karmi Lapatsa,North,PreBA 1,7,ECI-ECIII (MCI),Square,2,2,1.4,4,ECIII (MCI),Circular,1.85,1.9,1.6,3.515,ECII,Oval,1.35,1.6,1.5,2.16,ECI,Irregular,1.4,1.6,1.5,2.24,,0,0,0,,0,,0,,11.915
+Karmi Lapatsa,North,PreBA 1,9,ECI,Uncertain,1.5,1.2,.85,1.8,,Circular,1,1,.6,1,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Children's Burial,2.8
+Karmi Lapatsa,North,PreBA 2,14,ECIII-MCI,Rectangular,1.95,1.2,.65,2.34,ECIII-MCI,Oval,1.95,1.2,,2.34,MCI,Oval,1.55,2.2,,3.41,,,0,0,,0,,,0,0,,0,,0,,8.09
+Karmi Palealona,North,PreBA 1,1,ECII-MCI-II,Rectangular,3,1.9,1.6,5.7,ECII,Circular,1.85,2.55,1,4.7175,MCI-II,Irregular,1.85,2.55,1,4.7175,,,0,0,,0,,,0,0,,0,,0,Chamber 1- 2 burials,15.135
+Karmi Palealona,North,PreBA 1,10,ECII-MCII,Rectangular,3.3,1.8,.95,5.94,"ECII-ECIII, MCI-MCII",Irregular,3.0,3.25,1.15,9.75,ECI-II,Circular,.85,.85,.4,0.7225,,,0,0,,0,,,0,0,,0,,0,,16.4125
+Karmi Palealona,North,PreBA 1,12,ECI,Square,1.1,1.35,1,1.485,,Oval,1.45,1.7,1.1,2.465,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.95
+Karmi Palealona,North,PreBA 1,13/15,ECII-MCII,Rectangular,2.65,1.75,.85,4.6375,see 15,,0,0,,0,,Oval,1.05,1.7,1.15,1.785,"ECII-III, MCI or II",Oval,1.9,3.05,1.1,5.795,,,0,0,,0,,0,Connected to Tomb 15,12.2175
+Karmi Palealona,North,PreBA 1,15/13,ECII-MCI,Square,1.55,1.4,.75,2.17,"ECII, ECIII, MCI",Oval,2.6,1.7,.5,4.42,ECII/ECIII,Circular,.8,.8,.5,0.64,,,0,0,,0,,,0,0,,0,,0,"Ch 1- intial burial in ECII, subsequent burials in ECIII, MCI",7.23
+Karmi Palealona,North,PreBA 1,2,ECII-MCI-II,Rectangular,3.25,2.75,1.9,8.9375,,Circular,2.4,2.6,1.3,6.24,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,"Very confusing description, possibly with one more chamber",15.1775
+Karmi Palealona,North,PreBA 1,3*,ECII-MCII,Rectangular,2.8,2,1.6,5.6,ECII-MCII,Irregular,3.4,3.6,1.2,12.24,ECIII,Oval,1.2,1.05,.8,1.26,,,0,0,,0,,,0,0,,0,,0,"4 phases, 2 distinct burial layer in Chamber 1",19.1
+Karmi Palealona,North,PreBA 1,4,ECII-MCI,Trapezoidal,3.7,2.65,1.4,9.805,ECII-MC,Oval,1.55,2.65,1.1,4.1075,ECIII-MCI,Oval,1.6,2.1,1.5,3.36,,,0,0,,0,,,0,0,,0,,0,,17.2725
+Karmi Palealona,North,PreBA 1,5,ECII-MCII,Rectangular,3.3,2.4,1.7,7.92,,Oval,2.4,2.9,1.7,6.96,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,14.88
+Karmi Palealona,North,PreBA 1,6,ECI or II,Rectangular,3.3,2.5,1.9,8.25,,Irregular,1.6,2.8,1.45,4.48,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Highly decorated tomb,12.73
+Karmi Palealona,North,PreBA 1,9,ECII-MCI,Rectangular,2.4,1.3,1.05,3.12,"ECII, ECIII or MCI",Oval,14,2.75,.85,38.5,,Circular,3.1,4.25,1.35,13.175,,,0,0,,0,,,0,0,,0,,0,,54.795
+Karmi Palealona,North,PreBA 2,11,MCI,Rectangular,2,2.5,1.2,5,Early MCI,Oval,1.1,2.25,1.2,2.475,Late MCI,Oval,.98,1.4,.75,1.372,Unexcavated,,0,0,,0,,,0,0,,0,,0,,8.847
+Katydhata,North,PreBA 1,35 Gjerstad,ECII,,0,0,0,0,,,1.85,1.65,0,3.0525,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.0525
+Katydhata,North,PreBA 1,70 Gjerstad,ECII,,0,0,0,0,,Oval,2.9,2.5,0,7.25,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.25
+Katydhata,North,PreBA 1,75,EC-MC,,0,0,,0,,Oval,2.1,2.35,,4.935,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.935
+Katydhata,North,PreBA 2,28,MCI-II,,0,0,,0,,Circular,1.65,1.65,,2.7225,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.7225
+Katydhata,North,PreBA 2,29,MCII,,0,0,,0,,Oval,1.7,1.53,,2.601,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.601
+Katydhata,North,PreBA 2,39,MCII,,0,0,,0,,Circular,2.5,2.6,,6.5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.5
+Katydhata,North,PreBA 2,40,MC,,0,0,,0,,Circular,1.9,1.5,,2.85,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.85
+Katydhata,North,PreBA 2,44,MCI-II,,0,0,,0,,Circular,2.2,2.4,,5.28,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.28
+Katydhata,North,PreBA 2,46,MCI-II,,0,0,,0,,Circular,1.7,1.7,,2.89,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.89
+Katydhata,North,PreBA 2,54,MCI,,0,0,,0,,Oval,1.5,1.25,,1.875,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.875
+Katydhata,North,PreBA 2,55,MCII,,0,0,,0,,Oval,1.55,2,,3.1,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.1
+Katydhata,North,PreBA 2,56,MCI,,0,0,,0,,Circular,2.65,2.6,,6.89,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.89
+Katydhata,North,PreBA 2,57,MCII,,0,0,,0,,Circular,2.25,2.3,,5.175,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.175
+Katydhata,North,PreBA 2,58,MCI-II,,0,0,,0,,Oval,2.8,1.8,,5.04,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.04
+Katydhata,North,PreBA 2,59,MCI,,0,0,,0,,Oval,3.3,2.7,,8.91,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.91
+Katydhata,North,PreBA 2,5a,MC,,0,0,,0,,Circular,2.95,2.9,,8.555,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,8.555
+Katydhata,North,PreBA 2,60,MCI,,0,0,,0,,Circular,2.35,2.40,,5.64,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.64
+Katydhata,North,PreBA 2,61,MC,,0,0,,0,,Circular,2.8,2.6,,7.28,,Circular,1.7,1.25,,2.125,,,0,0,,0,,,0,0,,0,,0,,9.405
+Katydhata,North,PreBA 2,62,MCI-II,,0,0,,0,,Circular,2.1,2.4,,5.04,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.04
+Katydhata,North,PreBA 2,63,MC,,0,0,,0,,Oval,2.45,2,,4.9,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.9
+Katydhata,North,PreBA 2,66,MCI,,0,0,,0,,Oval,3.45,2.3,,7.935,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.935
+Katydhata,North,PreBA 2,67,MCI,,0,0,,0,,Oval,1.7,1.45,,2.465,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.465
+Katydhata,North,PreBA 2,69,MCI,,0,0,,0,,Circular,1.75,1.75,,3.0625,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.0625
+Katydhata,North,PreBA 2,71,MCI,,0,0,,0,,Circular,1.8,1.7,,3.06,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.06
+Katydhata,North,PreBA 2,72,MCII,,0,0,,0,,Oval,2.75,2.10,,5.775,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.775
+Katydhata,North,PreBA 2,74,MCII,,0,0,,0,,Circular,2.4,2.3,,5.52,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.52
+Katydhata,North,PreBA 2,76,MCI-II,,0,0,,0,,Oval,1.35,1.1,,1.485,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.485
+Katydhata,North,PreBA 2,8,MC,,0,0,,0,,Oval,2.5,2,,5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5
+Katydhata,North,PreBA 2,82,MCI-II,,0,0,,0,,Circular,1.65,1.65,,2.7225,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.7225
+Katydhata,North,PreBA 2,84,MCI,,0,0,,0,,Circular,2,2.10,,4.2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.2
+Kition (Larnaca),South,PreBA 2,I.6,ECIIIB/MCI,,0,0,0,0,,Kidney,4.93,3.22,0,15.8746,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.8746
+Kition (Larnaca),South,PreBA 2,I.8,ECIIIB/MCI,Rectangular,1.05,.71,0,0.7455,,Kidney,3.6,1.82,0,6.552,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.2975
+Kition (Larnaca),South,PreBA 2,II.6,ECIIIB,,0,0,0,0,,Circular,2.2,2.2,0,4.84,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.84
+Kition (Larnaca),South,PreBA 2,II.7,ECIIIB,,0,0,0,0,,Circular,2.2,2.2,0,4.84,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.84
+Kition (Larnaca),South,PreBA 2,II.8,ECIIIB,Rectangular,.32,1,0,0.32,,Circular,2.75,2.75,0,7.5625,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.8825
+Kyra Kaminia,Central,Philia,1,Philia,,0,0,0,0,,Oval,2.36,2.98,0,7.0328,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.0328
+Lapithos,North,PreBA 1,53 Gjerstad,ECII,,0,0,0,0,,Oval,2.5,1.9,0,4.75,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.75
+Lapithos,North,PreBA 1,55 Gjerstad,ECII,Rectangular,2.4,1.95,0,4.68,,Oval,2.3,1.7,0,3.91,,Circular,2.25,2.05,0,4.6125,,Oval,1.7,1.3,0,2.21,,,0,0,0,0,Square,1.2,,17.0085
+Lapithos,North,PreBA 1,56bis Gjerstad,ECII-ECIII,Apsidal,2.4,1.8,0,4.32,ECII,Circular,1.7,1.85,0,3.145,ECIII,Oval,2.55,2,0,5.1,ECIII,Circular,1.4,1.3,0,1.82,,,0,0,0,0,,.95,,15.92
+Lapithos,North,PreBA 1,57 Gjerstad,ECII,Elongated Apsis,2.95,1.9,0,5.605,,Oval,3.8,2.3,0,8.74,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,14.345
+Lapithos,North,PreBA 1,60 Gjerstad,ECII,Bathtub,2.5,1.6,0,4,,Square,2.6,1.75,0,4.55,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,8.55
+Lapithos,North,PreBA 1,62 Gjerstad,ECII,Elongated Apsis,2.4,1.5,0,3.6,,Oval,2.9,2.5,0,7.25,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,1.7,,12.21
+Lapithos,North,PreBA 1,63 Gjerstad,ECII-III,Rectangular,3.2,1.7,0,5.44,,Oval,3.3,2.3,0,7.59,ECIII,Circular,2.5,2.5,0,6.25,ECIII,Circular,1.65,1.4,0,2.31,,,0,0,0,0,Cupboard,.35,,21.7665
+Lapithos,North,PreBA 1,64 Gjerstad,ECII,Elongated Apsis,2.1,1.6,0,3.36,,Oval,3.7,2.6,0,9.62,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Cupboard,.33,,13.0559
+Lapithos,North,PreBA 2,10 Gjerstad,ECIII,,0,0,0,0,,Circular,2.5,2.5,0,6.25,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.25
+Lapithos,North,PreBA 2,204 Gjerstad,MCI,,0,0,0,0,,Oval,4.15,3.5,0,14.525,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,1.45,,20.14
+Lapithos,North,PreBA 2,21 Gjerstad,MCI,,0,0,0,0,,Trapezoidal,3,3,0,9,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,1,,11.09
+Lapithos,North,PreBA 2,50 Gjerstad,MCI,,0,0,0,0,,Circular,4,4,0,16,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16
+Lapithos,North,PreBA 2,54 Gjerstad,MCI,Rectangular,2.2,1.45,0,3.19,,Oval,3.7,2.3,0,8.51,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Cupboard,.4,,12.015
+Lapithos,North,PreBA 2,59 Gjerstad,ECIII,Elongated Apsis,2.6,2,0,5.2,,Oval,3.4,2,0,6.8,,Oval,2,1.5,0,3,,Square,2.3,2.25,0,5.175,,,0,0,0,0,Rounded,1.5,,21.7125
+Lapithos,North,PreBA 2,61 Gjerstad,ECIII,Rectangular,2.9,1.7,0,4.93,,Oval,3.5,2.7,0,9.45,,Oval,1.7,1.2,0,2.04,,,0,0,0,0,,,0,0,0,0,Cupboard,.2,,16.5636
+Lapithos,North,PreBA 2,65 Gjerstad,MCI,,2.85,1.7,0,4.845,,Oval,2.75,2.2,0,6.05,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Cupboard,.25,,10.945
+Lapithos,North,PreBA 2,66 Gjerstad,MCI,,2.7,1.55,0,4.185,,Oval,3.9,2.7,0,10.53,,Circular,3.5,3.2,0,11.2,,,0,0,0,0,,,0,0,0,0,,1.5,,27.115
+Lapithos Vrysi tou Barba,North,PreBA 1,303,ECI-MCII,Rectangular,2.54,1.58,0,4.0132,ECI,Circular,2.1,2.86,0,6.006,MCII,Oval,2.35,1.8,0,4.23,,,0,0,0,0,,,0,0,0,0,,0,,15.2892
+Lapithos Vrysi tou Barba,North,PreBA 1,304,ECI/II,Rectangular,2.13,1.43,0,3.0459,ECI/II-III,Circular,1.67,2,0,3.34,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.3859
+Lapithos Vrysi tou Barba,North,PreBA 1,308,ECI-ECII,Rectangular,2.2,1.46,0,3.212,ECI-ECII,Circular,2.82,3.06,0,8.6292,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,11.8412
+Lapithos Vrysi tou Barba,North,PreBA 1,312,ECII,Rectangular,2.4,1.42,0,3.408,ECII,Circular,2.03,2.33,0,4.7299,ECII,Kidney,1.64,2.95,0,4.838,,,0,0,0,0,,,0,0,0,0,,0,,12.9759
+Lapithos Vrysi tou Barba,North,PreBA 1,323,ECII-III,Rectangular,2.72,1.74,0,4.7328,ECII,Oval,2.22,3.72,0,8.2584,ECII,Oval,2.59,2.91,0,7.5369,ECIII,Oval,3.24,3.61,0,11.6964,ECIII,Oval,1.95,2.48,0,4.836,,0,,37.0605
+Lapithos Vrysi tou Barba,North,PreBA 1,810,ECIC-MCI,Rectangular,2.5,1.75,0,4.375,ECIC-MCI,Circular,2.4,2.1,0,5.04,,Circular,1.1,1,0,1.1,ECIIIB/MCI,Oval,2.35,1.65,0,3.8775,,,0,0,0,0,,0,,14.3925
+Lapithos Vrysi tou Barba,North,PreBA 1,811,ECII-III,Bathtub,3.55,2,0,7.1,ECII-III,Oval,3.1,2.5,0,7.75,,Oval,1.35,1.2,0,1.62,,,0,0,0,0,,,0,0,0,0,,0,Cut doorframe and Pilaster,16.59
+Lapithos Vrysi tou Barba,North,PreBA 1,812,ECIC-MCI,Rectangular,2.83,1.8,0,5.094,ECIC-MCI,Kidney,3.7,2.7,0,9.99,ECIIIA,Circular,1.85,1.4,0,2.59,,,0,0,0,0,,,0,0,0,0,,0,Framed door,17.674
+Lapithos Vrysi tou Barba,North,PreBA 1,813,ECII-MCI,Rectangular,2.83,1.8,0,5.094,ECII-ECIIIB,Kidney,4.45,2.85,0,12.6825,ECIIIB/MCI,Oval,3.25,1.85,0,6.0125,,,0,0,0,0,,,0,0,0,0,,0,"Steps, Central Pier, Recessed enterance with niche",23.789
+Lapithos Vrysi tou Barba,North,PreBA 1,817,ECII-MCI,Rectangular,2.4,1.75,0,4.2,ECII/IIIB-MCI,Kidney,4.3,2.7,0,11.61,ECII,Oval,2.7,1.8,0,4.86,ECII,Oval,2.1,1.45,0,3.045,,,0,0,0,0,,0,Pier,23.715
+Lapithos Vrysi tou Barba,North,PreBA 1,820,ECII-ECIIIB,Bathtub,2.79,1.4,0,3.906,ECII-ECIIIB,Oval,2.7,2.10,0,5.67,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.576
+Lapithos Vrysi tou Barba,North,PreBA 1,821,ECII,Bathtub,2.6,1.53,0,3.978,ECII,Oval,1.95,2,0,3.9,ECII,Oval,2,1.3,0,2.6,,,0,0,0,0,,,0,0,0,0,,0,,10.478
+Lapithos Vrysi tou Barba,North,PreBA 1,822,ECII,Bathtub,2.9,1.75,0,5.075,ECII,Oval,3.2,2.2,0,7.04,ECII,Oval,2.28,1.4,0,3.192,,Oval,1.85,1.6,0,2.96,,,0,0,0,0,,0,,18.267
+Lapithos Vrysi tou Barba,North,PreBA 1,823,ECI-II,Bathtub,2.88,1.4,0,4.032,ECI-II,Oval,2.7,2,0,5.4,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.432
+Lapithos Vrysi tou Barba,North,PreBA 1,824,ECI-IIIB,Bathtub,3.25,1.8,0,5.85,ECI-IIIB,Oval,2.3,2.55,0,5.865,ECI-IIIB,Oval,2.3,1.75,0,4.025,,,0,0,0,0,,,0,0,0,0,,0,Shallow step,15.74
+Lapithos Vrysi tou Barba,North,PreBA 1,825,ECII-ECIIIB,Bathtub,2.65,1.44,0,3.816,ECII-IIIB,Oval,2.15,1.75,0,3.7625,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.5785
+Lapithos Vrysi tou Barba,North,PreBA 1,826,ECII-MCI,L Shaped,10.37,1,0,10.37,ECII-IIIB,Oval,3.3,2.7,0,8.91,ECII-IIIB/MCI,Oval,3,1.9,0,5.7,,,0,0,0,0,,,0,0,0,0,,0,Step Cut,24.98
+Lapithos Vrysi tou Barba,North,PreBA 1,829,ECII-IIIB,Keyhole,2.8,1.9,0,5.32,ECII-ECIIIB,Kidney,3.85,2.3,0,8.855,ECII,Circular,1.85,1.55,0,2.8675,ECII-IIIB,Oval,3.3,1.5,0,4.95,,,0,0,0,0,Cupboard d,.45,Pier,22.4973
+Lapithos Vrysi tou Barba,North,PreBA 1,831,ECII-IIIB,Bathtub,2.45,1.55,0,3.7975,ECII-IIIB,Oval,1.8,1.45,0,2.61,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.4075
+Lapithos Vrysi tou Barba,North,PreBA 1,834,ECII-ECIIIA-B,L Shaped,3.2,2,0,6.4,ECII/ECIIIA-B,Oval,3.25,2.15,0,6.9875,ECII/ECIIIA-B,Circular,2.7,2.2,0,5.94,,,0,0,0,0,,,0,0,0,0,,0,Pier,19.3275
+Lapithos Vrysi tou Barba,North,PreBA 2,301,ECIII,Rectangular,2.54,1.63,0,4.1402,ECIII,Oval,1.52,2.2,0,3.344,ECII,Oval,1.53,1.83,0,2.7999,ECII,Oval,1.73,2.50,0,4.325,,,0,0,0,0,,0,,14.6091
+Lapithos Vrysi tou Barba,North,PreBA 2,302,ECIII,Squarish,2.06,1.24,0,2.5544,ECIII,Oval,2.96,3.31,0,9.7976,ECIII,Oval,2.26,3.85,0,8.701,ECIII,Rectangular,1.83,2.6,0,4.758,,,0,0,0,0,,0,,25.811
+Lapithos Vrysi tou Barba,North,PreBA 2,305,ECIII,Rectangular,2.85,1.59,0,4.5315,ECII-III,Oval,1.65,2.11,0,3.4815,ECII,Oval,2,2.4,0,4.8,,,0,0,0,0,,,0,0,0,0,,0,,12.813
+Lapithos Vrysi tou Barba,North,PreBA 2,306,ECIII,Rectangular,2.45,1.56,0,3.822,ECII-III,Kidney,2.42,4.30,0,10.406,ECII-III,Trefoil,1.16,1.55,0,1.798,ECII-III,Circular,2.06,2.28,0,4.6968,,,0,0,0,0,,0,,20.7228
+Lapithos Vrysi tou Barba,North,PreBA 2,307,ECIII-MCI,Rectangular,1.98,1.24,0,2.4552,ECIII-MCI,Circular,2.44,3.08,0,7.5152,ECIII-MCI,Oval,1.15,2.18,0,2.507,,,0,0,0,0,,,0,0,0,0,Cupboard,.43,Cupboards along dromos,13.7453
+Lapithos Vrysi tou Barba,North,PreBA 2,309,ECIII,Rectangular,3.08,1.35,0,4.158,ECII-III,Oval,2.6,3.71,0,9.646,ECII-III,Oval,2.58,3.70,0,9.546,,,0,0,0,0,,,0,0,0,0,,0,,23.35
+Lapithos Vrysi tou Barba,North,PreBA 2,311,"ECIII-MCI, MCII",Rectangular,3.41,1.71,0,5.8311,,Oval,3.17,3.88,0,12.2996,,Oval,2.63,2.92,0,7.6796,,,0,0,0,0,,,0,0,0,0,,0,,25.8103
+Lapithos Vrysi tou Barba,North,PreBA 2,313,ECIII-MCI,Rectangular,2.66,1.73,0,4.6018,,Oval,3.9,6.79,0,26.481,,Oval,3.5,4.05,0,14.175,,Circular,1.10,1.07,0,1.177,,Oval,2.11,2.64,0,5.5704,,0,,52.0052
+Lapithos Vrysi tou Barba,North,PreBA 2,314,ECIII,Rectangular,3.78,2.34,0,8.8452,ECIII,Oval,2.05,3.73,0,7.6465,ECIII,Kidney,2.9,5.45,0,15.805,,,0,0,0,0,,,0,0,0,0,,0,Decorative moulding,32.2967
+Lapithos Vrysi tou Barba,North,PreBA 2,315,MCI-II,Rectangular,2.83,1.92,0,5.4336,MCI-II,Oval,4.15,4.55,0,18.8825,MCI-II,Kidney,1.86,6.15,0,11.439,,,0,0,0,0,,,0,0,0,0,,0,,35.7551
+Lapithos Vrysi tou Barba,North,PreBA 2,316,MCII,Squarish,1.84,1.55,0,2.852,MCII,Oval,3.14,4.42,0,13.8788,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16.7308
+Lapithos Vrysi tou Barba,North,PreBA 2,317,ECIII,Rectangular,3.07,1.55,0,4.7585,ECIII,Circular,2.53,3.38,0,8.5514,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,13.3099
+Lapithos Vrysi tou Barba,North,PreBA 2,318,ECIII/MCI,Rectangular,2.38,1.4,0,3.332,ECII-III,Oval,2.62,3.73,0,9.7726,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,13.1046
+Lapithos Vrysi tou Barba,North,PreBA 2,319,ECIII,Rectangular,1.95,1.32,0,2.574,ECIII,Oval,.58,.81,0,0.4698,ECIII,Oval,1.72,2.24,0,3.8528,ECIII,Oval,.98,1.31,0,1.2838,,,0,0,0,0,,0,,8.1804
+Lapithos Vrysi tou Barba,North,PreBA 2,320,MCII,Rectangular,3.18,2.08,0,6.6144,MCII,Oval,3.05,4.45,0,13.5725,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,20.1869
+Lapithos Vrysi tou Barba,North,PreBA 2,321,ECIII,Rectangular,3.51,1.85,0,6.4935,ECIII,Oval,1.52,2.32,0,3.5264,ECIII,Heart,4.42,7.10,0,31.382,,,0,0,0,0,,,0,0,0,0,,0,Decorative moulding,41.4019
+Lapithos Vrysi tou Barba,North,PreBA 2,322,ECIII-MCI,Rectangular,7.85,2.14,0,16.799,ECIII-MCI,Oval,5.6,6.85,0,38.36,ECIII-MCI,Oval,3.69,5.05,0,18.6345,ECIII-MCI,Oval,1.04,1.38,0,1.4352,ECIII-MCI,Oval,2.60,4.46,0,11.596,,0,,101.4877
+Lapithos Vrysi tou Barba,North,PreBA 2,801,ECIIIA-MCI,Bathtub,2.7,1.6,0,4.32,ECIIIA/MCI,Oval,2.75,2,0,5.5,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Cut groove,9.82
+Lapithos Vrysi tou Barba,North,PreBA 2,802,ECIIIB-MCII,Bathtub,3.13,1.83,0,5.7279,ECIIIB/MCI-MCII,Oval,2.6,2,0,5.2,MCI,Oval,2.2,1.5,0,3.3,N. Excavated,,.6,.7,0,0.42,,,0,0,0,0,,0,,14.6479
+Lapithos Vrysi tou Barba,North,PreBA 2,803,ECIIIA-MCII,Bathtub,2.78,1.77,0,4.9206,MCI,Oval,3.35,2.10,0,7.035,ECIIIA-MCI/MCII,Oval,2.35,1.6,0,3.76,,,0,0,0,0,,,0,0,0,0,,0,,15.7156
+Lapithos Vrysi tou Barba,North,PreBA 2,804,MCI-MCIII,Bathtub,2.6,not recorded,0,,MCI-MCIII,Oval,5.2,4.5,0,23.4,MCII,Oval,1.6,2.6,0,4.16,MCII-MCIII,?,2.7,not recorded,0,,MCII-MCIII,Circular,2.3,2.4,0,5.52,18 cupboards total,3.7,,
+Lapithos Vrysi tou Barba,North,PreBA 2,805,ECIIIB-MCII,Bathtub,4,2.15,0,8.6,ECIIIB-MCII,Circular,4.35,2.5,0,10.875,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,1.5,4 cut steps,22.45
+Lapithos Vrysi tou Barba,North,PreBA 2,806,ECIII-MC,Bathtub,3.3,2.3,0,7.59,ECIII,Oval,5.1,3,0,15.3,MC,Oval,4.45,3.5,0,15.575,MC,Oval,3.8,2.5,0,9.5,,,0,0,0,0,2 niches,1.19,,54.565
+Lapithos Vrysi tou Barba,North,PreBA 2,809,ECIIIA-MCI,Bathtub,2.84,1.48,0,4.2032,L.ECII/ECIIIA,Oval,2.6,2.1,0,5.46,ECIIIB,Oval,1.8,2.41,0,4.338,ECIIIB/MCI,Oval,1.3,.9,0,1.17,L.ECIIIB/MCI,Oval,2.5,2.2,0,5.5,,0,,20.6712
+Lapithos Vrysi tou Barba,North,PreBA 2,814,MCI,Bathtub,2.42,1.5,0,3.63,MCI,Oval,2.25,1.95,0,4.3875,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Rough cut steps,8.0175
+Lapithos Vrysi tou Barba,North,PreBA 2,816/835,ECIIIB/MCI,Bathtub,2.29,1.47,0,3.3663,ECIIIB/MCI,Circular,1.65,1.9,0,3.135,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.5013
+Lapithos Vrysi tou Barba,North,PreBA 2,818,ECIIIB,Bathtub,2.56,1.55,0,3.968,ECIIIB,Circular,2.2,1.3,0,2.86,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,.42,,7.2774
+Lapithos Vrysi tou Barba,North,PreBA 2,819,ECIIIB/MCI,Keyhole,1.9,.92,0,1.748,ECIIIB/MCI,Oval,1.58,1.15,0,1.817,ECIIIB/MCI,Oval,1.88,1.95,0,3.666,,,0,0,0,0,,,0,0,0,0,,0,,7.231
+Lapithos Vrysi tou Barba,North,PreBA 2,827,ECIIIB-MCI,Bathtub,3.5,2,0,7,ECIIIB-MCI,Oval,3.75,2.8,0,10.5,ECIIIB,Kidney,4.7,3,0,14.1,,,0,0,0,0,,,0,0,0,0,,0,Pilasters and rock wall,31.6
+Lapithos Vrysi tou Barba,North,PreBA 2,828,ECIIIA-MCI,Rectangular,3.9,1.95,0,7.605,ECIIIA-MCI,Kidney,3.7,2.45,0,9.065,ECIIIB/MCI,Circular,2.35,2.1,0,4.935,,,0,0,0,0,,,0,0,0,0,,.80,,23.005
+Lapithos Vrysi tou Barba,North,PreBA 2,832,ECIIIB,Bathtub,3.1,1.55,0,4.805,ECIIIB,Oval,2.25,1.4,0,3.15,ECIIIB,Oval,2,2.20,0,4.4,,,0,0,0,0,,,0,0,0,0,,0,Steps and recessed door frame,12.355
+Lapithos Vrysi tou Barba,North,PreBA 2,833,ECIIIB/MCI,Bathtub,3.02,1.77,0,5.3454,ECIIIB,Oval,3,1.85,0,5.55,ECIIIB,Oval,1.93,1.2,0,2.316,ECIIIB/MCI,Oval,1.7,1.15,0,1.955,,,0,0,0,0,,0,"Step, decorated piers and recess",15.8918
+Lapithos Vrysi tou Barba,North,PreBA 2,835/816,ECIIIA-B-MCI,Bathtub,2.63,1.75,0,4.6025,ECIIIA-B-MCI,Irregular,2.4,2,0,4.8,,1.65,1.9,0,0,0,ECIIIA-B-MCI,Oval,2.9,2,0,5.8,,,0,0,0,0,,1.3,,17.2825
+Lapithos Vrysi tou Barba,North,PreBA 2,836,ECIIIA-B,Bathtub,3.01,1.65,0,4.9665,ECIIIA,Irregular,3.05,1.9,0,5.795,ECIIIB,Oval,1.97,1.38,0,2.7186,,,0,0,0,0,,,0,0,0,0,,1.2,,14.0801
+Lapithos Vrysi tou Barba,North,PreBA 2,837,ECIIIB/MCI,Bathtub,2.85,1.9,0,5.415,ECIIIB/MCI,Oval,3.8,2.5,0,9.5,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Pier,14.915
+Limassol,South,PreBA 2,1,ECIII,,0,0,0,0,,Circular,1.93,2.0,0,3.86,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.86
+Limassol,South,PreBA 2,4,ECIII,Irregular,2,1.2,0,2.4,,Cicrular,2.4,2.1,0,5.04,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.44
+Linou (Georgiou),Central,PreBA 2,008,ECIII-MCI,None,0,0,0,0,,Oval,3.1,2.2,0,6.82,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.82
+Marki Davari,Central,Philia,6,Phila,,0,0,,0,,Pit,2.5,2.5,.45-.75,6.25,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.25
+Marki Davari,Central,Philia,7,Philia,,0,0,,0,,Pit,2.5,2.5,.3-.5,6.25,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.25
+Marki Davari,Central,PreBA 2,5,MCI,,0,0,,0,,Circular,2.8,2.8,1.2,7.84,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.84
+Marki Vounarous,Central,PreBA 2,1,ECIII,Rectangular,1.2,1.84,0,2.208,,Oval,1.36,1.76,0,2.3936,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.6016
+Mesoyi Katarraktis,South,PreBA 2,1,MC,,0,0,0,0,,Circular,2,2,0,4,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4
+Nicosia Ayia Paraskevi,Central,Philia,27 Georgiou,Philia,,0,0,,0,,Oval,2.6,1.9,1,4.94,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.94
+Nicosia Ayia Paraskevi,Central,Philia,3/3a Theophanides St,Philia,Rectangular,2.83,2.13,,6.0279,,Circular,1.35,1.27,.38,1.7145,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,7.7424
+Nicosia Ayia Paraskevi,Central,Philia,4 Theophanides St,Philia,None,0,0,,0,,Pit,2.28,1.68,.42-.65,3.8304,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.8304
+Nicosia Ayia Paraskevi,Central,Philia,9 Theophanides St,Philia,None,0,0,,0,,Pit,2.75,2.27,1.43,6.2425,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.2425
+Nicosia Ayia Paraskevi,Central,PreBA 1,1 Gjerstad,ECII,Pit,0,0,0,0,,Circular,1.30,1.2,0,1.56,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.56
+Nicosia Ayia Paraskevi,Central,PreBA 1,11 Gjerstad,ECII-III,,0,0,0,0,,Square,2.1,1.85,0,3.885,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Recess,1.65,,8.1825
+Nicosia Ayia Paraskevi,Central,PreBA 1,11 Gjerstad (Myers),ECII,,0,0,0,0,,Square,1.53,1.53,0,2.3409,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.3409
+Nicosia Ayia Paraskevi,Central,PreBA 1,13 Gjerstad,ECII-III,Bathtub,1.9,.95,0,1.805,,Round,2.3,2.1,0,4.83,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.635
+Nicosia Ayia Paraskevi,Central,PreBA 1,2 Gjerstad,ECII-III,,0,0,0,0,,Rectangular,2.3,1.5,0,3.45,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.45
+Nicosia Ayia Paraskevi,Central,PreBA 1,3 Gjerstad,ECII-III,,0,0,0,0,,Rectangular,2,1.2,0,2.4,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Recess,1.7,,4.695
+Nicosia Ayia Paraskevi,Central,PreBA 1,5 Gjerstad,ECII-III,,0,0,0,0,,Rectangular,2.35,1.5,0,3.525,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Recess,1.05,,4.8375
+Nicosia Ayia Paraskevi,Central,PreBA 1,6 Gjerstad,ECII-III,Rectangular,2.2,1.0,0,2.2,,Oblong,1.55,.8,0,1.24,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.44
+Nicosia Ayia Paraskevi,Central,PreBA 1,8 Gjerstad,ECII-III,,0,0,0,0,,Quadrangular,1.85,1.1,0,2.035,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.035
+Nicosia Ayia Paraskevi,Central,PreBA 2,1 Epaminondas Street,ECIII,None,0,0,,0,,,1.8,1.66,,2.988,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.988
+Nicosia Ayia Paraskevi,Central,PreBA 2,1 Gjerstad (Myers,MCI,,0,0,0,0,,Circular,.92,.92,0,0.8464,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,0.8464
+Nicosia Ayia Paraskevi,Central,PreBA 2,10 Gjerstad,MCI,Apsidal,1.8,1.5,0,2.7,,Oval,2.3,1.35,0,3.105,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5.805
+Nicosia Ayia Paraskevi,Central,PreBA 2,10 Krumholz,MCII,None,0,0,,0,,Pit,1.43,1.2,.85,1.716,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.716
+Nicosia Ayia Paraskevi,Central,PreBA 2,11 Hadjicosti,MC,,0,0,0,0,,Irregular,2.88,3.60,0,10.368,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Square,1.28,,14.912
+Nicosia Ayia Paraskevi,Central,PreBA 2,11 Theophanides St,ECIII,None,0,0,,0,,Pit,1.72,1.5,.82,2.58,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.58
+Nicosia Ayia Paraskevi,Central,PreBA 2,12 Hadjicosti,MC,,0,0,0,0,,Oval,4.96,3.20,0,15.872,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,15.872
+Nicosia Ayia Paraskevi,Central,PreBA 2,13 Gjerstad,MCIII,None,0,0,,0,,Pit,2,1.6,,3.2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.2
+Nicosia Ayia Paraskevi,Central,PreBA 2,2 Epameinondou ST,ECIII,Rectangular,.85,.50,0,0.425,,Circular,1.92,1.85,0,3.552,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.977
+Nicosia Ayia Paraskevi,Central,PreBA 2,22 Gjerstad,ECIII,Bathtub,1.25,.80,0,1,,Oval,1.8,1.15,0,2.07,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.07
+Nicosia Ayia Paraskevi,Central,PreBA 2,5 Theophanides St,MCIII,None,0,0,,0,,Pit,1.5,1.4,,2.1,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.1
+Nicosia Ayia Paraskevi,Central,PreBA 2,7 Gjerstad,ECIII,Pit,0,0,0,0,,Oval,1.7,1.4,0,2.38,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.18
+Nicosia Ayia Paraskevi,Central,PreBA 2,7 Theophanides St,MCIII,None,0,0,,0,,Pit,2.8,2.12,,5.936,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.936
+Nicosia Ayia Paraskevi,Central,PreBA 2,9 Gjerstad,MCI,,0,0,0,0,,Oval,2.5,2,0,5,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5
+Philia Vasiliko,Central,Philia,1,Philia,,0,0,0,0,,Irregular,4.65,3.56,0,16.554,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16.554
+Philia Vasiliko,Central,Philia,2,Philia,,0,0,0,0,,Irregular,4.65,2.36,0,10.974,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,10.974
+Philia Vasiliko,Central,Philia,3,Philia,,0,0,0,0,,Irregular,3.93,3.60,0,14.148,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,14.148
+Philia Vasiliko,Central,Philia,4,Philia,,0,0,0,0,,Irregular,2.53,1.93,0,4.8829,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.8829
+Philia Vasiliko,Central,Philia,5a,Philia,,0,0,0,0,,Irregular,3.67,2.07,0,7.5969,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.5969
+Phlasou Kousoulia,Central,PreBA 1-2,012,ECII-III,Trapezoidal,.5,1.2,0,0.6,,Circular,1.8,1.9,1.8,3.42,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,Chamber is domed,4.02
+Politiko,Central,PreBA 1,30 Gjerstad,MC,,0,0,0,0,,Oval,3,2.5,0,7.5,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.6875
+Politiko,Central,PreBA 2,1 Gjerstad,MC,,0,0,0,0,,Circular,1.25,1.05,0,1.3125,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.3125
+Politiko,Central,PreBA 2,10 Gjerstad,MC,,0,0,0,0,,Oval,2.2,1.7,0,3.74,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.74
+Politiko,Central,PreBA 2,11 Gjerstad,MC,,0,0,0,0,,Oval,2.9,2.3,0,6.67,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.67
+Politiko,Central,PreBA 2,12 Gjerstad,MC,,0,0,0,0,,Oval,3.5,3,0,10.5,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,10.5
+Politiko,Central,PreBA 2,14 Gjerstad,MC,,0,0,0,0,,Circular,3.15,3,0,9.45,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.45
+Politiko,Central,PreBA 2,16 Gjerstad,MC,,0,0,0,0,,Oval,4.3,3.3,0,14.19,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,14.19
+Politiko,Central,PreBA 2,18 Gjerstad,MC,,0,0,0,0,,Circular,3.5,3.5,0,12.25,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,12.25
+Politiko,Central,PreBA 2,19 Gjerstad,MC,,0,0,0,0,,Oval,3.45,2.8,0,9.66,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.66
+Politiko,Central,PreBA 2,2 Gjerstad,MC,,0,0,0,0,,Circular,1.25,1.15,0,1.4375,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.4375
+Politiko,Central,PreBA 2,20 Gjerstad,MC,,0,0,0,0,,Oval,3.4,2.7,0,9.18,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,9.18
+Politiko,Central,PreBA 2,21 Gjerstad,MC,,0,0,0,0,,Oval,2.6,2.1,0,5.46,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5.46
+Politiko,Central,PreBA 2,22 Gjerstad,MC,,0,0,0,0,,Circular,2.3,2,0,4.6,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.6
+Politiko,Central,PreBA 2,23 Gjerstad,MC,,0,0,0,0,,Circular,2.7,2.5,0,6.75,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.75
+Politiko,Central,PreBA 2,24 Gjerstad,MC,,0,0,0,0,,Circular,3.3,3.1,0,10.23,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,10.23
+Politiko,Central,PreBA 2,26 Gjerstad,MC,,0,0,0,0,,Oval,2.8,2.25,0,6.3,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.3
+Politiko,Central,PreBA 2,27 Gjerstad,MC,,0,0,0,0,,Oval,2.9,2,0,5.8,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,5.8
+Politiko,Central,PreBA 2,28 Gjerstad,MC,,0,0,0,0,,Oval,3.4,3,0,10.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,Recess,1.4,,11.88
+Politiko,Central,PreBA 2,29 Gjerstad,MC,,0,0,0,0,,Oval,3.4,3,0,10.2,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,10.2
+Politiko,Central,PreBA 2,3 Gjerstad,MC,,0,0,0,0,,Circular,1.25,1.2,0,1.5,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.5
+Politiko,Central,PreBA 2,31 Gjerstad,MC,,0,0,0,0,,Oval,4.3,3.9,0,16.77,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,16.77
+Politiko,Central,PreBA 2,4 Gjerstad,MC,,0,0,0,0,,Circular,1.3,1.3,0,1.69,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.69
+Politiko,Central,PreBA 2,5 Gjerstad,MC,,0,0,0,0,,Oval,1.25,1.25,0,1.5625,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,1.5625
+Politiko,Central,PreBA 2,6 Gjerstad,MC,,0,0,0,0,,Circular,2.2,1.8,0,3.96,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.96
+Politiko,Central,PreBA 2,7 Gjerstad,MC,,0,0,0,0,,Circular,2,1.8,0,3.6,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,3.6
+Politiko,Central,PreBA 2,9 Gjerstad,MC,,0,0,0,0,,Oval,3,2.55,0,7.65,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,7.65
+Politiko Chomazoudhia,Central,PreBA 2,3 Gjerstad,MC,,0,0,0,0,,Circular,1.6,1.4,0,2.24,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,2.24
+Psematismenos Trelloukkas,South,PreBA 1,1/99,ECI-II,,0,0,,0,,Oval,2.15,1.75,.25,3.7625,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.7625
+Psematismenos Trelloukkas,South,PreBA 1,100,ECI-II,,0,0,,0,,Oval,2.2,2,1.10,4.4,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.4
+Psematismenos Trelloukkas,South,PreBA 1,102,ECI-II,N. Excavated,0,0,,0,,Oval (preserved to),1.2,.65,.65,0.78,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.78
+Psematismenos Trelloukkas,South,PreBA 1,103,ECI-II,,0,0,,0,,Oval,2.35,1.80,1.10,4.23,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.23
+Psematismenos Trelloukkas,South,PreBA 1,106,ECI-II,N. Excavated,0,0,,0,,Oval,1.40,1.30,.90,1.82,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.82
+Psematismenos Trelloukkas,South,PreBA 1,107,ECI-II,N. Excavated,0,0,,0,,Kidney,1.55,1.0,.75,1.55,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.55
+Psematismenos Trelloukkas,South,PreBA 1,108,ECI-II,,0,0,,0,,Oval,2.45,2.25,1.10,5.5125,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.5125
+Psematismenos Trelloukkas,South,PreBA 1,109,ECI-II,,0,0,,0,,Oval,1.7,1.45,.90,2.465,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.465
+Psematismenos Trelloukkas,South,PreBA 1,110,ECI-II,Pit Tomb,0,0,,0,,Pit,1.05,.95,.2,0.9975,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.9975
+Psematismenos Trelloukkas,South,PreBA 1,111,ECI-II,,0,0,,0,,Oval,1.7,1.45,.90,2.465,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.465
+Psematismenos Trelloukkas,South,PreBA 1,112,ECI-II,,0,0,,0,,Oval,2.20,2.0,1.0,4.4,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.4
+Psematismenos Trelloukkas,South,PreBA 1,113,ECI-II,N. Excavated,0,0,,0,,Oval,1.70,1.55,.80,2.635,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.635
+Psematismenos Trelloukkas,South,PreBA 1,114,ECI-II,,0,0,,0,,Circular,.80,.75,.30,0.6,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.6
+Psematismenos Trelloukkas,South,PreBA 1,115,ECI-II,,0,0,,0,,Circular,1,.9,.55,0.9,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.9
+Psematismenos Trelloukkas,South,PreBA 1,117,ECI-II,N. Excavated,0,0,,0,,Oval,2.10,1.40,.75,2.94,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.94
+Psematismenos Trelloukkas,South,PreBA 1,118,ECI-II,,0,0,,0,,Circular,2.05,2.05,.90,4.2025,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,4.2025
+Psematismenos Trelloukkas,South,PreBA 1,119,ECI-II,,0,0,,0,,Oval,1.10,.90,.60,0.99,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.99
+Psematismenos Trelloukkas,South,PreBA 1,120,ECI-II,,0,0,,0,,Oval,1.05,.90,.60,0.945,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.945
+Psematismenos Trelloukkas,South,PreBA 1,121,ECI-II,Pit Tomb,0,0,,0,,Pit,.70,.55,,0.385,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.385
+Psematismenos Trelloukkas,South,PreBA 1,122,ECI-II,,0,0,,0,,Oval,1.75,1.35,.80,2.3625,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.3625
+Psematismenos Trelloukkas,South,PreBA 1,123,ECI-II,,0,0,,0,,Oval,1.5,1.3,.70,1.95,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.95
+Psematismenos Trelloukkas,South,PreBA 1,124,ECI-II,,0,0,,0,,Oval,2.55,2.2,1.10,5.61,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.61
+Psematismenos Trelloukkas,South,PreBA 1,125,ECI-II,,0,0,,0,,Oval,1.35,1.2,.6,1.62,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.62
+Psematismenos Trelloukkas,South,PreBA 1,126,ECI-II,,0,0,,0,,Circular,1.25,1.2,.3,1.5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.5
+Psematismenos Trelloukkas,South,PreBA 1,80,ECI-II,N.Excavated,0,0,,0,,Oval,1.3,1.8,1.1,2.34,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.34
+Psematismenos Trelloukkas,South,PreBA 1,81,ECI-II,,0,0,,0,,Oval,2,1.9,1.2,3.8,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.8
+Psematismenos Trelloukkas,South,PreBA 1,82,ECI-II,N.Excavated,0,0,,0,,Oval,1,.70,.5,0.7,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.7
+Psematismenos Trelloukkas,South,PreBA 1,83,ECI-II,,0,0,,0,,Oval,.6,.55,.3,0.33,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.33
+Psematismenos Trelloukkas,South,PreBA 1,84,ECI-II,N. Excavated,0,0,,0,,Oval,2.05,1.70,1.05,3.485,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.485
+Psematismenos Trelloukkas,South,PreBA 1,85,ECI-II,N. Excavated,0,0,,0,,Oval,.70,.60,.45,0.42,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.42
+Psematismenos Trelloukkas,South,PreBA 1,86,ECI-II,N. Excavated,0,0,,0,,Oval,.90,.65,.25,0.585,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.585
+Psematismenos Trelloukkas,South,PreBA 1,88,ECI-II,N. Excavated,0,0,,0,,Oval,.90,.75,.30,0.675,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.675
+Psematismenos Trelloukkas,South,PreBA 1,89,ECI-II,,0,0,,0,,Oval,1.5,1.5,.85,2.25,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.25
+Psematismenos Trelloukkas,South,PreBA 1,90,ECI-II,,0,0,,0,,Oval,1.85,1.45,1,2.6825,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.6825
+Psematismenos Trelloukkas,South,PreBA 1,91,ECI-II,,0,0,,0,,Kidney,3.05,1.90,1.2,5.795,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,5.795
+Psematismenos Trelloukkas,South,PreBA 1,92,ECI-II,N. Excavated,0,0,,0,,Oval,.90,.80,,0.72,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.72
+Psematismenos Trelloukkas,South,PreBA 1,93,ECI-II,,0,0,,0,,Oval,1.45,1.25,.80,1.8125,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.8125
+Psematismenos Trelloukkas,South,PreBA 1,94,ECI-II,N. Excavated,0,0,,0,,Oval,.55,.45,.30,0.2475,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.2475
+Psematismenos Trelloukkas,South,PreBA 1,96,ECI-II,N. Excavated,0,0,,0,,Oval,1.7,.95,,1.615,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.615
+Psematismenos Trelloukkas,South,PreBA 1,97,ECI-II,,0,0,,0,,Semi-oval,1.5,1.3,.9,1.95,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.95
+Psematismenos Trelloukkas,South,PreBA 1,99,ECI-II,Pit tomb,0,0,,0,,Pit,1.35,.95,,1.2825,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.2825
+Psematismenos Trelloukkas,South,PreBA 1,Maroni 1/2000,ECI-II,,0,0,,0,,Pit,2.2,1.7,.7,3.74,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.74
+Psematismenos Trelloukkas,South,PreBA 1,Todd 1985,ECI-II,,0,0,,0,,Circular,2.65,2.46,1.05,6.519,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,6.519
+Psematismenos Trelloukkas,South,PreBA 2,1 Gjerstad,ECIII,Pit,0,0,0,0,,Circular,2.1,2.1,0,4.41,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,4.41
+Psematismenos Trelloukkas,South,PreBA 2,95,Later than EC-II,,0,0,,0,,Oval,.50,.40,.30,0.2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.2
+Psematismenos Trelloukkas,South,PreBA 2,PKK/94,MCI-II,,0,0,,0,,Oval,2.25,1.25,1.3,2.8125,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Preserved dimensions,2.8125
+Pyrgos,South,PreBA 1,2a,ECII-MCII,,0,0,0,0,,Oval,2.7,2.4,0,6.48,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,6.48
+Pyrgos,South,PreBA 2,3,ECIII,,0,0,0,0,,Square,.90,.95,0,0.855,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,0.855
+Pyrgos,South,PreBA 2,4,MCI-II,,0,0,0,0,,Square,.8,.8,0,0.64,,,0,0,0,0,,,0,0,0,0,,,0,0,0,0,,0,,0.64
+Sotira Kaminoudhia,South,Philia,15,Philia,,0,0,,0,,Oval,1.24,1.06,.68,1.3144,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.3144
+Sotira Kaminoudhia,South,Philia,6,Philia,,0,0,,0,,Oval,1.55,1.37,.80,2.1235,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.1235
+Sotira Kaminoudhia,South,PreBA 1,14,ECI/II,Hemispherical,.90,1.0,.20,0.9,,Oval,1.28,.94,1.2,1.2032,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.1032
+Sotira Kaminoudhia,South,PreBA 1,17,ECI/II,,0,0,,0,,Circular,1.08,1.2,.74,1.296,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.296
+Sotira Kaminoudhia,South,PreBA 1,18,ECI/II,,0,0,,0,,Oval,.74,.52,.30,0.3848,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.3848
+Sotira Kaminoudhia,South,PreBA 1,4,ECI/II-III,,0,0,,0,,Oval,1.84,.70,1.08,1.288,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,1.288
+Sotira Kaminoudhia,South,PreBA 1,7,ECI-II,,0,0,,0,,Circular,.80,.80,.50,0.64,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.64
+Sotira Kaminoudhia,South,PreBA 1,9,ECI-II,,0,0,,0,,Oval,.80,.95,.45,0.76,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.76
+Sotira Kaminoudhia,South,PreBA 2,11,ECIII,,1,.56,,0.56,,Oval,1.54,1.26,1.5,1.9404,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,2.5004
+Sotira Kaminoudhia,South,PreBA 2,12,ECIII,,0,0,,0,,Oval,2,1.6,1.4,3.2,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,3.2
+Sotira Kaminoudhia,South,PreBA 2,13,ECIII,,0,0,,0,,Cist,.35,.28,.20,0.098,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.098
+Sotira Kaminoudhia,South,PreBA 2,19,ECIII,,0,0,,0,,Oval,.72,.50,.50,0.36,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.36
+Sotira Kaminoudhia,South,PreBA 2,8,ECIII,,0,0,,0,,Circular,.50,.50,.30,0.25,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,0.25
+Tersephanou Kokkinadhi,South,PreBA 2,1,EC/MC,,0,0,0,0,,Circular,2,2,0,4,,Circular,2.20,2.20,0,4.84,,,0,0,0,0,,,0,0,0,0,,0,,8.84
+Vasilia Kafkallia,North,Philia,"1, 2 Complex",Philia,Rectangular,8.6,1.8,,15.48,,Oval,4.1,3.6,,14.76,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,,30.24
+Vasilia Kafkallia,North,Philia,"1, 2 Complex",Philia,Rectangular,9.8,2.9,,28.42,,Circular,4,3.7,,14.8,,,0,0,,0,,,0,0,,0,,,0,0,,0,,.3,,43.7188
+Vasilia Kafkallia,North,Philia,101,Philia,Rectangular,8.1,2.4,,19.44,,Circular,2.5,2.6,,6.5,,,0,0,,0,,,0,0,,0,,,0,0,,0,,1.6,,29.84
+Vasilia Kafkallia,North,Philia,103,Philia,Rectangular,5.5,3.7,,20.35,,Circular,3.1,3.9,,12.09,,Circular,2.6,2.8,,7.28,,,0,0,,0,,,0,0,,0,,0,,47.86
+Vasilia Kafkallia,North,Philia,104,Philia,Rectangular,7.5,3.1,,23.25,,Oval,7.1,2.6,,18.46,,,0,0,,0,,,0,0,,0,,,0,0,,0,,0,Chamber is only partially excavated,41.71

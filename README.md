@@ -6,4 +6,4 @@ The MetadataforTombContentsMaster.pdf and MetadataforTombSizeMaster.pdf includes
 
 When using these data, please cite appropriately. 
 Swantek (2017, November 12). 
-Swantek, Laura. CyprusPreBAMortuaryData (Version v.1). Zenodo. http://doi.org/10.5281/zenodo.1045529
+

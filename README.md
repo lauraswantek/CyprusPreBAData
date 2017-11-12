@@ -3,3 +3,5 @@ The data contained in both the TombSizeMaster and TombContentsMaster.csv files w
 
 
 The MetadataforTombContentsMaster.pdf and MetadataforTombSizeMaster.pdf includes the metadata for the .csv files with all column headings explained.  
+
+When using these data, please cite appropriately. 

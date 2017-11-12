@@ -5,6 +5,5 @@ The data contained in both the TombSizeMaster and TombContentsMaster.csv files w
 The MetadataforTombContentsMaster.pdf and MetadataforTombSizeMaster.pdf includes the metadata for the .csv files with all column headings explained.  
 
 When using these data, please cite appropriately. 
-lauraswantek. (2017, November 12). 
-lauraswantek/CyprusPreBAData: CyprusPreBAMortuaryData (Version v.1). 
-Zenodo. http://doi.org/10.5281/zenodo.1045529
+Swantek (2017, November 12). 
+Swantek, Laura. CyprusPreBAMortuaryData (Version v.1). Zenodo. http://doi.org/10.5281/zenodo.1045529
